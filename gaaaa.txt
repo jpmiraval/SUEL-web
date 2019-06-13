@@ -1,0 +1,10 @@
+PARA SUBIR:
+	-git add .
+	-git commit -m "hola"
+	-git push
+PARA BAJAR:
+	-git fetch
+	-git pull
+
+
+git status
